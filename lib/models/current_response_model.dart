@@ -1,4 +1,4 @@
-class CurrentResponseModel {
+ class CurrentResponseModel {
   CurrentResponseModel({
       this.coord, 
       this.weather, 
